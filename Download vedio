@@ -1,0 +1,1 @@
+yt-dlp -f bestvideo+bestaudio --write-subs --sub-lang lang_code URLhttps://youtu.be/n5WL6g5wRCM?si=1NyPadi8G5S79d4O
